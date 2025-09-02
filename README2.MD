@@ -1,4 +1,4 @@
-#Criando maquinas virtuais na azure
+# Criando maquinas virtuais na azure
 Nessa aula, aprendemos a criar máquinas virtuais na plataforma Microsoft Azure, entendendo sua importância na computação em nuvem.
 Em seguida, vimos como acessar o portal do Azure e navegar até o recurso de criação de Virtual Machine.
 Aprendemos a escolher a região de hospedagem, pensando em desempenho e custos.
