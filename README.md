@@ -1,4 +1,4 @@
-# resumo-do-lab
+# resumo-do-lab localizando servilos por categoria
 Na aula aprendi os conceitos básicos de cloud computing, que é o uso de recursos de TI pela internet, sem precisar de infraestrutura própria.
 Entendi as vantagens da nuvem, como flexibilidade, escalabilidade e pagamento sob demanda.
 Também vi os principais modelos: IaaS, PaaS e SaaS.
